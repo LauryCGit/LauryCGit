@@ -1,5 +1,8 @@
 ### Hola, soy Laura 👋
-
+<html>
+  <p>Soy Tecnica Universitaria en Desarrollo Web y Analista de Sistemas </p>
+  <p></p>
+</html>
 
 <!--
 **LauryCGit/LauryCGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
