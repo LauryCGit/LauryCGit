@@ -1,7 +1,8 @@
-### Hola, soy Laura 👋
+### Hola 👋
 
-### Soy Tecnica Universitaria en Desarrollo Web y Analista de Sistemas </p>
+### Sobre mí:
 
+### Educación: Tecnica Universitaria en Desarrollo Web y Analista de Sistemas </p>
 <!--
 **LauryCGit/LauryCGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
